@@ -1,4 +1,4 @@
-import PIXI, { FillStyle } from 'pixi.js';
+import PIXI  from 'pixi.js';
 import Matter, { Body, Constraint } from 'matter-js';
 
 // module aliases
